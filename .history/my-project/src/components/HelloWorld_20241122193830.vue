@@ -29,7 +29,7 @@
     </ul>
   </div>
 </template>
-aaaa
+
 <script>
 export default {
   name: 'HelloWorld',
