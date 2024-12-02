@@ -1,14 +1,18 @@
 <template>
   <headerE/>
+  <UserStorage/>
+  <FooterObject/>
 </template>
 
 <script>
 import HeaderE from './components/HeaderE.vue';
+import UserStorage from "@/components/UserStorage.vue";
+import FooterObject from "@/components/FooterObject.vue";
 
 export default {
   name: 'App',
   components: {
-    HeaderE
+    HeaderE, UserStorage, FooterObject
   }
 }
 </script>
