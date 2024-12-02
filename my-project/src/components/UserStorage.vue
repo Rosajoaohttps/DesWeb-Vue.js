@@ -3,8 +3,9 @@
       <div class="content">
             <div class="card-container">
                 <div class="card">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"
+                    <img src="@/assets/Tenis1.png"
                         alt="JavaScript Logo">
+                        <v-bind></v-bind>
                     <div class="card-body">
                         <h5>Card title</h5>
                         <p>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -12,7 +13,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://lh3.googleusercontent.com/csXm00pBuJvmhsXcI1XauxFGrE66sHBbWI9QyKY0lt2h55a1VaKl6F5TrlH0wBC_aijloKw9lh8a=e14-rj-sc0xffffff-w1270"
+                    <img src="@/assets/Tenis2.png"
                         alt="Logo">
                     <div class="card-body">
                         <h5>Card title</h5>
@@ -21,7 +22,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://lh3.googleusercontent.com/csXm00pBuJvmhsXcI1XauxFGrE66sHBbWI9QyKY0lt2h55a1VaKl6F5TrlH0wBC_aijloKw9lh8a=e14-rj-sc0xffffff-w1270"
+                    <img src="@/assets/Tenis3.png"
                         alt="Logo">
                     <div class="card-body">
                         <h5>Card title</h5>
@@ -30,7 +31,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://lh3.googleusercontent.com/csXm00pBuJvmhsXcI1XauxFGrE66sHBbWI9QyKY0lt2h55a1VaKl6F5TrlH0wBC_aijloKw9lh8a=e14-rj-sc0xffffff-w1270"
+                    <img src="@/assets/Tenis4.png"
                         alt="Logo">
                     <div class="card-body">
                         <h5>Card title</h5>
@@ -39,7 +40,7 @@
                     </div>
                 </div>
                 <div class="card">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbm2BN5DgUYAS8mkFN_2ZhT8xT5u1Zd9PqHw&s"
+                    <img src="@/assets/Tenis5.png"
                         alt="Logo">
                     <div class="card-body">
                         <h5>Card title</h5>
