@@ -2,13 +2,11 @@
     <div class="Global">
         <footer class="footer">
             <div>
-                <h5>CURSOS</h5>
+                <h5>ShoeStore</h5>
                 <ul>
-                    <li><a href="#">Cursos de Programação</a></li>
-                    <li><a href="#">Cursos de Front-end</a></li>
-                    <li><a href="#">Cursos de Data Science</a></li>
-                    <li><a href="#">Cursos de IA</a></li>
-                    <li><a href="#">Cursos de DevOps</a></li>
+                    <li><a href="#">Regiao</a></li>
+                    <li><a href="#">Revenda</a></li>
+                    <li><a href="#">Atacado</a></li>
                 </ul>
             </div>
             <p>© 2024 Empresa. Todos os direitos reservados.</p>

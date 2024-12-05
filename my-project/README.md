@@ -1,5 +1,13 @@
 # my-project
 
+
+Depedencias: vue.js - node.js - vueCli - npm 
+
+
+
+Os textos que chamam objetos sao 
+os textos do header 
+
 ## Project setup
 ```
 npm install

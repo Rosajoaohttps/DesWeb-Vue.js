@@ -4,13 +4,13 @@
     <div class="container">
         <a href="#" class="navbar-brand"><img src="@/assets/favicon.png" alt="" width="5%"></a>
         <form class="search-bar">
-            <input type="search" placeholder="O que você quer aprender?" aria-label="Search">
+            <input type="search" placeholder="O que você quer hoje?" aria-label="Search">
             <button type="submit">Q</button>
         </form>
         <nav class="nav">
-            <a class="nav-link" href="#">Informações</a>
-            <a class="nav-link" href="#">Sobre</a>
-            <a class="nav-link" href="#">Contato</a>
+            <a class="nav-link" href="#" @click="$emit('load-paginfo')">Informações</a>
+            <a class="nav-link" href="#" @click="$emit('load-pagsobre')">Sobre</a>
+            <a class="nav-link" href="#" @click="$emit('load-pagcontato')">Contato</a>
         </nav>
         <a href="Login_page.html" class="btn-plan">Criar Conta / fazer Login</a>
     </div>

@@ -1,55 +1,49 @@
 <template>
     <div class="Global">
       <div class="content">
-            <div class="card-container">
-                <div class="card">
-                    <img src="@/assets/Tenis1.png"
-                        alt="JavaScript Logo">
-                        <v-bind></v-bind>
-                    <div class="card-body">
-                        <h5>Card title</h5>
-                        <p>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn">Go somewhere</a>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="@/assets/Tenis2.png"
-                        alt="Logo">
-                    <div class="card-body">
-                        <h5>Card title</h5>
-                        <p>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn">Go somewhere</a>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="@/assets/Tenis3.png"
-                        alt="Logo">
-                    <div class="card-body">
-                        <h5>Card title</h5>
-                        <p>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn">Go somewhere</a>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="@/assets/Tenis4.png"
-                        alt="Logo">
-                    <div class="card-body">
-                        <h5>Card title</h5>
-                        <p>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn">Go somewhere</a>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="@/assets/Tenis5.png"
-                        alt="Logo">
-                    <div class="card-body">
-                        <h5>Card title</h5>
-                        <p>Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn">Go somewhere</a>
-                    </div>
-                </div>
+        <div class="card-container">
+          <div class="card">
+            <img src="@/assets/Tenis1.png" alt="Tênis esportivo verde">
+            <div class="card-body">
+              <h5>Modelo Speedy Verde</h5>
+              <p>Ideal para atividades de alta performance, com design aerodinâmico e leveza incomparável.</p>
+              <a href="#" class="btn">Saiba mais</a>
             </div>
+          </div>
+          <div class="card">
+            <img src="@/assets/Tenis2.png" alt="Tênis casual branco e vermelho">
+            <div class="card-body">
+              <h5>Casual Branco e Vermelho</h5>
+              <p>Perfeito para o dia a dia, combina conforto e estilo em qualquer ocasião.</p>
+              <a href="#" class="btn">Saiba mais</a>
+            </div>
+          </div>
+          <div class="card">
+            <img src="@/assets/Tenis3.png" alt="Tênis de corrida rosa e branco">
+            <div class="card-body">
+              <h5>Runner Rosa</h5>
+              <p>Desenvolvido para corredores, oferece estabilidade e amortecimento em terrenos variados.</p>
+              <a href="#" class="btn">Saiba mais</a>
+            </div>
+          </div>
+          <div class="card">
+            <img src="@/assets/Tenis4.png" alt="Tênis de basquete azul e branco">
+            <div class="card-body">
+              <h5>Basquete Clássico</h5>
+              <p>Com design robusto e clássico, é perfeito para amantes de basquete e cultura urbana.</p>
+              <a href="#" class="btn">Saiba mais</a>
+            </div>
+          </div>
+          <div class="card">
+            <img src="@/assets/Tenis5.png" alt="Tênis estampado com detalhes laranja">
+            <div class="card-body">
+              <h5>Estampado Vibrante</h5>
+              <p>Com estampa ousada e moderna, é a escolha ideal para quem gosta de inovar no visual.</p>
+              <a href="#" class="btn">Saiba mais</a>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
   </template>
   
